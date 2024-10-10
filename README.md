@@ -3,10 +3,10 @@ Badlion Client for Minecraft - Now made possible to be used on Arch systems WITH
 
 # How to use:
 
-Download using the Download File button at the top right.\n
-Unzip the downloaded file.\n
-Open terminal.\n
-cd to where you extracted it to.\n
-Do `makepkg -si`\n
-Open Badlion from your App Launcher of choice\n
-Enjoy!
+Download using the Download File button at the top right.<br>
+Unzip the downloaded file.<br>
+Open terminal.<br>
+cd to where you extracted it to.<br>
+Do `makepkg -si`<br>
+Open Badlion from your App Launcher of choice<br>
+Enjoy!<br>
