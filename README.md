@@ -3,6 +3,10 @@ Badlion Client for Minecraft - Now made possible to be used on Arch systems WITH
 
 # How to use:
 
+Download from the AUR using either Yay, Paru or any other AUR helper of your choice with the package name 'badlion-client'<br>
+
+ALTERNATIVELY<br>
+
 Download from the RELEASES page<br>
 Open Terminal to the location of where you downloaded the file. (Put it in a new folder if it's in Downloads!)<br>
 Type 'makepkg -si'<br>
