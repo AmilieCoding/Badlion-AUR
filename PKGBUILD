@@ -1,5 +1,6 @@
-# Maintainer: Amilie - amiliefn@gmail.com
+# Maintainer: Amilie - amilie@allthingslinux.com
 # Contributor: Wings-Fantasy -  hxshijie@outlook.com
+
 _pkgname=badlion-client
 
 pkgname="${_pkgname}"-appimage
