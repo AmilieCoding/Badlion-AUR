@@ -1,4 +1,6 @@
 # Badlion-AUR
+NO LONGER BEING UPDATED, AS PER REQUEST BY BLC<br>
+
 Badlion Client for Minecraft - Now made possible to be used on Arch systems WITHOUT the AppImage! Install it like it's native!
 
 # How to use:
